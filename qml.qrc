@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>UI/Assets/icons8-back-to-48 (1).png</file>
+        <file>UI/Assets/icons8-back-to-48.png</file>
+        <file>UI/Assets/icons8-bottle-of-water-48.png</file>
+        <file>UI/Assets/icons8-coffee-beans-48.png</file>
+        <file>UI/Assets/icons8-coffee-to-go-48.png</file>
+        <file>UI/Assets/icons8-cola-48.png</file>
+        <file>UI/Assets/icons8-heating-48.png</file>
+        <file>UI/Assets/icons8-mint-48.png</file>
+        <file>UI/Assets/icons8-ok-64 (1).png</file>
+        <file>UI/Assets/icons8-ok-64.png</file>
+        <file>UI/Assets/icons8-reset-50 (1).png</file>
+        <file>UI/Assets/icons8-reset-50.png</file>
+        <file>UI/Assets/icons8-soda-48.png</file>
+        <file>UI/Assets/icons8-thirst-48.png</file>
+        <file>UI/Assets/icons8-wi-fi-48.png</file>
+        <file>UI/Assets/icons8-winter-48.png</file>
+        <file>UI/Assets/mug-hot.png</file>
+        <file>UI/Assets/snowflake.png</file>
+        <file>UI/Assets/hot.png</file>
+        <file>UI/Assets/snowflake1.png</file>
+        <file>UI/HotColdSelectionPage.qml</file>
+        <file>UI/main.qml</file>
+        <file>UI/StatusBar.qml</file>
+        <file>UI/DrinkTypePage.qml</file>
+        <file>UI/DrinkSizeSelectionPage.qml</file>
+        <file>UI/DispensingScreen.qml</file>
+        <file>UI/FinishScreen.qml</file>
+    </qresource>
+</RCC>
